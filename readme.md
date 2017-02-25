@@ -1,7 +1,7 @@
 # weex-vue-fixed
 
 This component is using for solving the issue that when using `vue-router` in weex, the DOM elements with `position: fixed`
-attribute will never disappear or close. [issue](https://github.com/alibaba/weex/issues/2310)
+attribute will android disappear or close. [issue](https://github.com/alibaba/weex/issues/2310)
 ## Install
 
 ```
@@ -38,7 +38,7 @@ router.beforeEach((to, from, next) => {
 </wx-fixed>
 ```
 
-## props
+## Props
 
 | name   | type    |  desc      |
 |--------|---------|------------|
