@@ -34,9 +34,9 @@ router.beforeEach((to, from, next) => {
 ## 使用
 
 ```html
-<wx-fixed top="0" left="0" :show="true">
+<wv-fixed top="0" left="0" :show="true">
     <text>This is fixed tag for android , clear safe</text>
-</wx-fixed>
+</wv-fixed>
 ```
 
 ## 属性 props
