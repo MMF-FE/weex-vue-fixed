@@ -1,6 +1,6 @@
 {
   "name": "weex-vue-fixed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fixed tag for weex",
   "main": "dist/index.js",
   "dependencies": {},
